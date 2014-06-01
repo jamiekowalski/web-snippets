@@ -1,6 +1,6 @@
 # View Change Module
 
-By [Jamie Kowalski](https://github.com/jamiekowalski/web-snippets/viewchange/)
+By [Jamie Kowalski](https://github.com/jamiekowalski/web-snippets/)
 
 A simple module for navigating bewteen a set of pages using AJAX. Requires [jQuery](http://jquery.com) and the [jQuery Hash-change plugin](https://github.com/cowboy/jquery-hashchange).
 
